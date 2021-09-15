@@ -1,0 +1,40 @@
+This file includes all imports and respective licenses for any assets used.
+
+From the Unity Asset Store and under the unity standart free license:
+    Textures:
+	- Yughues Free Wooden Floor Materials by Nobiax / Yughues : https://assetstore.unity.com/packages/2d/textures-materials/wood/yughues-free-wooden-floor-materials-13213
+	- Yughues Free Metal Materials by Nobiax / Yughues : https://assetstore.unity.com/packages/2d/textures-materials/metals/yughues-free-metal-materials-12949
+	- Yughues Free Concrete Materials by Nobiax / Yughues : https://assetstore.unity.com/packages/2d/textures-materials/concrete/yughues-free-concrete-materials-12951
+	
+	Models:
+	- Action RPG Melee Axe by Vibrant Core : https://assetstore.unity.com/packages/3d/action-rpg-melee-axe-38213
+	- LowPoly Fantasy Bags by Vergis : https://assetstore.unity.com/packages/3d/props/lowpoly-fantasy-bags-156997
+	- Horse Statue by ChermandirKun : https://assetstore.unity.com/packages/3d/environments/fantasy/horse-statue-52025
+	- Bronze Bear Statue by Samuel Snow : https://assetstore.unity.com/packages/3d/props/bronze-bear-statue-65904
+	- Dragon Statue by Viacheslav Titenko : https://assetstore.unity.com/packages/3d/dragon-statue-59053
+
+	Code:
+	- ClampRotationAroundXAxis Function from MouseLook.cs from Standart Assets by Unity Technologies : https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
+	- OnControllerColliderHit Function from FirstPersonController.cs from Standart Assets by Unity Technologies : https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
+	
+Fonts
+	- Digital Dream:
+		- All fonts designed and copyrighted Jakob Fischer / pizzadude.dk : www.pizzadude.dk
+	- You Murderer BB Font :
+		- By Blambot Comic Fonts : https://www.1001fonts.com/youmurderer-bb-font.html
+	- Contender Font :
+		- By Viaction Type : https://www.fontspace.com/contender-font-f53852
+		
+Sounds
+	- https://noises.online
+	- https://freesound.org/people/nooly/sounds/331357/
+	- https://www.bensound.com/royalty-free-music/track/ofelias-dream
+	- https://freesound.org/people/DrMinky/sounds/167048/
+	- https://freesound.org/people/abyeditsound/sounds/450509/
+	- https://www.chosic.com/download-audio/?t=27021&tag=Games
+	- https://www.chosic.com/download-audio/?t=25944&tag=Calm
+	- https://freesound.org/people/joedeshon/sounds/118230/
+	- https://freesound.org/people/amszala/sounds/84916/
+	- https://freesound.org/people/fastson/sounds/399120/
+	- https://freesound.org/people/kyles/sounds/453347/
+	- https://freesound.org/people/Bertsz/sounds/500901/
